@@ -4,8 +4,8 @@ import Homework.Lesson10.p1.A;
 import Homework.Lesson10.p1.p2.p3.C;
 import Homework.Lesson10.p4.p5.E;
 
-import static Homework.Lesson10.p1.p2.B.b;
-import static Homework.Lesson10.p1.p2.B.sb;
+import static Homework.Lesson10.p1.p2.B.*;
+
 
 public class D {
 
